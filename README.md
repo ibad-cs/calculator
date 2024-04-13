@@ -14,3 +14,5 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+
+[![Build Status](https://dev.azure.com/K200152/K200152/_apis/build/status%2Fibad-cs.calculator?branchName=master)](https://dev.azure.com/K200152/K200152/_build/latest?definitionId=2&branchName=master)
